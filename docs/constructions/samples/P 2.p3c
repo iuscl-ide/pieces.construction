@@ -1,0 +1,21 @@
+{
+"name":"P 2",
+"sceneColor":[255, 255, 128],
+"baseColor":[0, 128, 0],
+"constructionWidth":50,
+"constructionHeight":50,
+"constructionDepth":50,
+"view_Name":["Default", "View1", "View1", "View1", "View1"],
+"view_EyeRadius":[74, 80, 80, 12, 80],
+"view_EyeAngle":[65, 55, 55, 55, 65],
+"view_ConsAngle":[0, 330, 300, 300, 130],
+"view_ConsMoveX":[0, 0, 0, 0, 0],
+"view_ConsMoveY":[0, 0, 0, 0, 0],
+"pieces_kitId":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"pieces_IndexInKit":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3],
+"pieces_positionX":[9, 17, 40, 37, 22, 19, 28, 28, 11, 2, 7, 9, 20],
+"pieces_positionY":[37, 20, 18, 36, 44, 33, 26, 10, 10, 26, 22, 28, 27],
+"pieces_positionZ":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+"pieces_rotationZ":[2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+"kits":["kS84YMny", "qHc53ynS", "kC83Y5f2"]
+}
